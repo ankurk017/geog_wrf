@@ -24,7 +24,6 @@ geog_data_path = '/home/username/WRF_Model/WPS/geog'
 As this is the minimum requirements for `geogrid.exe` to compile, one needs to modify `geog_data_res` in the wps.namelist
 ```
 geog_data_res = '2deg+gtopo_10m+usgs_10m+nesdis_greenfrac+10m'
-
 ```
 #### D. SUPPORTING LINKS
 In order to download the full version of WRF geographical data, refer to the follwing link:
