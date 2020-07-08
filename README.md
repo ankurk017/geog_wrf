@@ -29,4 +29,5 @@ geog_data_res = '2deg+gtopo_10m+usgs_10m+nesdis_greenfrac+10m'
 #### D. SUPPORTING LINKS
 In order to download the full version of WRF geographical data, refer to the follwing link:
 a. https://www2.mmm.ucar.edu/wrf/users/download/get_sources_wps_geog.html
+
 b. https://www2.mmm.ucar.edu/wrf/users/download/get_sources_wps_geog.html#mandatory
