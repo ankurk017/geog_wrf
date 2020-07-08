@@ -10,8 +10,8 @@ Minimum geographical data required for running WRFv3 and WRFv4.
 Unzip the `.tar.bz2` zipped file by using these commands:
 
 ```bash
-bunzip2 geog_min.tar.bz2
-tar xvf geog_min.tar
+bunzip2 filename.tar.bz2
+tar xvf filename.tar
 ```
 Move the `geog_min` folder to a specific folder in your linux, and set the corresponding path in the namelist.wps
 
@@ -26,3 +26,7 @@ As this is the minimum requirements for `geogrid.exe` to compile, one needs to m
 geog_data_res = '2deg+gtopo_10m+usgs_10m+nesdis_greenfrac+10m'
 
 ```
+#### D. SUPPORTING LINKS
+In order to download the full version of WRF geographical data, refer to the follwing link:
+a. https://www2.mmm.ucar.edu/wrf/users/download/get_sources_wps_geog.html
+b. https://www2.mmm.ucar.edu/wrf/users/download/get_sources_wps_geog.html#mandatory
